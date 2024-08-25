@@ -73,7 +73,7 @@
                 
             </div>
         </section>
-
+        
         <nav>
             <div class="container__menu">
                 <div class="menu__principal"> 
@@ -96,7 +96,7 @@
                                                 <li><a href="#">Lingerie</a></li>
                                                 <li><a href="#">Shoes</a></li>
                                             </ul>
-                                            <div class="img__select"><img src="libros/electronic.jpg" alt=""></div>
+                                            <div class="img__select"><img src="/libros/electronic.jpg" alt=""></div>
                                         </div>
                                     </li>
                                     <li><a href="/category/Apparel">Apparel<i class="fa-solid fa-angle-right"></i></a>
@@ -114,7 +114,7 @@
                                                 <li><a href="#">Lingerie</a></li>
                                                 <li><a href="#">Shoes</a></li>
                                             </ul>
-                                            <div class="img__select"><img src="libros/apparel.jpg" alt=""></div>
+                                            <div class="img__select"><img src="/libros/apparel.jpg" alt=""></div>
                                         </div>
                                     </li>
                                     <li><a href="/category/Auto & Bike">Auto & Bike</a></li>
@@ -133,7 +133,7 @@
                                                 <li><a href="#">Lingerie</a></li>
                                                 <li><a href="#">Shoes</a></li>
                                             </ul>
-                                            <div class="img__select"><img src="libros/robin hood.jpg" alt=""></div>
+                                            <div class="img__select"><img src="/libros/robin hood.jpg" alt=""></div>
                                         </div>
                                     </li>
                                     <li><a href="/category/Mystery">Mystery<i class="fa-solid fa-angle-right"></i></a>
@@ -151,7 +151,7 @@
                                                 <li><a href="#">Lingerie</a></li>
                                                 <li><a href="#">Shoes</a></li>
                                             </ul>
-                                            <div class="img__select"><img src="libros/mystery.jpg" alt=""></div>
+                                            <div class="img__select"><img src="/libros/mystery.jpg" alt=""></div>
                                         </div>
                                     </li>
                                     <li><a href="/category/Home & Garden">Home & Garden</a></li>

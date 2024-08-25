@@ -107,7 +107,7 @@
 
                     <div class="libros">
                         <div class="cover">
-                            <img src="libros/01.jpg" alt="">
+                            <img src="/libros/01.jpg" alt="">
                             <div class="info">
                                 <button><i class="fa-solid fa-cart-shopping"></i> ADD TO CART</button>
                                 <a href="#"><i class="fa-regular fa-eye"></i></a>
