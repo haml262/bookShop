@@ -12,6 +12,8 @@ Route::get('/', function () {
 
 Route::get('/home', [BooksController::class, 'home']);
 
+Route::get('/home', [BooksController::class, 'mostrarLibros']);
+
 Route::get('/mycart', [MycartController::class, 'mycart']);
 
 //Route::get('/nav/services', [NavController::class, 'services']);

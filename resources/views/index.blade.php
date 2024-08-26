@@ -102,12 +102,12 @@
             <div class="best__seller">
 
                 <h4>best seller <div class="direction"><i class="fa-solid fa-angle-left"></i><i class="fa-solid fa-angle-right"></i></div></i></h4>
-                
+
                 <div class="contenedor__libro">
 
                     <div class="libros">
                         <div class="cover">
-                            <img src="/libros/01.jpg" alt="">
+                            <img src="libros/01.jpg" alt="">
                             <div class="info">
                                 <button><i class="fa-solid fa-cart-shopping"></i> ADD TO CART</button>
                                 <a href="#"><i class="fa-regular fa-eye"></i></a>
@@ -129,13 +129,13 @@
                             
                             <div class="linea__2">
                                 <div class="precio__anterior"></div>
-                                <div class="precio__actual">$30.39</div>
+                                    <div class="precio__actual">$30.39</div>
                             </div>
-                            
+                                
                         </div>
-                        
+                            
                     </div>
-    
+        
                     <div class="libros">
                         <div class="cover">
                             <img src="libros/02.jpg" alt="">
@@ -387,7 +387,6 @@
                     </div>
 
                 </div>
-
 
             </div>
         </section>
