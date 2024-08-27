@@ -133,7 +133,7 @@
                                                 <li><a href="#">Lingerie</a></li>
                                                 <li><a href="#">Shoes</a></li>
                                             </ul>
-                                            <div class="img__select"><img src="/libros/robin hood.jpg" alt=""></div>
+                                            <div class="img__select"><img src="/libros/robinhood.jpg" alt=""></div>
                                         </div>
                                     </li>
                                     <li><a href="/category/Mystery">Mystery<i class="fa-solid fa-angle-right"></i></a>

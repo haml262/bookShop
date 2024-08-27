@@ -8,7 +8,7 @@
             "precio": 19.99,
             "calificacion": 4.8,
             "descuento": 10,
-            "imagen": "/public/libros/01.jpg",
+            "imagen": "/libros/01.jpg",
             "fecha_de_publicacion": "1997-04-01T12:30:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
             "categoria": "Finanzas Personales"
@@ -21,7 +21,7 @@
             "precio": 14.99,
             "calificacion": 4.7,
             "descuento": 15,
-            "imagen": "/public/libros/02.jpg",
+            "imagen": "/libros/02.jpg",
             "fecha_de_publicacion": "1998-09-08T14:23:00Z",
             "fecha_de_ingreso": "2024-08-21T11:47:00Z",
             "categoria": "Desarrollo Personal"
@@ -41,7 +41,7 @@
         },
         {
             "id": 4,
-            "titulo": "El Triunfo y la Tragedia de J. Robert Oppenheimer",
+            "titulo": "El Triunfo y la Tragedia",
             "descripcion": "Una biografía detallada que explora la vida de J. Robert Oppenheimer, el científico que lideró el Proyecto Manhattan, y los dilemas éticos que enfrentó tras la creación de la bomba atómica.",
             "autor": "Kai Bird y Martin J. Sherwin",
             "precio": 24.99,
