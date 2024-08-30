@@ -11,7 +11,7 @@
             "imagen": "/libros/01.jpg",
             "fecha_de_publicacion": "1997-04-01T12:30:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Finanzas Personales"
+            "categoria": 1
         },
         {
             "id": 2,
@@ -24,7 +24,7 @@
             "imagen": "/libros/02.jpg",
             "fecha_de_publicacion": "1998-09-08T14:23:00Z",
             "fecha_de_ingreso": "2024-08-21T11:47:00Z",
-            "categoria": "Desarrollo Personal"
+            "categoria": 2
         },
         {
             "id": 3,
@@ -37,7 +37,7 @@
             "imagen": "/libros/03.jpg",
             "fecha_de_publicacion": "2020-11-10T20:00:00Z",
             "fecha_de_ingreso": "2024-08-21T07:30:00Z",
-            "categoria": "Desarrollo Personal"
+            "categoria": 2
         },
         {
             "id": 4,
@@ -50,7 +50,7 @@
             "imagen": "/libros/04.jpg",
             "fecha_de_publicacion": "2005-04-05T18:00:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Biografía"
+            "categoria": 3
         },
         {
             "id": 5,
@@ -63,7 +63,7 @@
             "imagen": "/libros/05.jpg",
             "fecha_de_publicacion": "2020-09-08T22:20:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Finanzas Personales"
+            "categoria": 1
         },
         {
             "id": 6,
@@ -76,7 +76,7 @@
             "imagen": "/libros/06.jpg",
             "fecha_de_publicacion": "1997-04-21T19:40:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Desarrollo Personal"
+            "categoria": 2
         },
         {
             "id": 7,
@@ -89,7 +89,7 @@
             "imagen": "/libros/07.jpg",
             "fecha_de_publicacion": "2023-11-15T14:10:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Cultura y Sociedad"
+            "categoria": 4
         },
         {
             "id": 8,
@@ -102,7 +102,7 @@
             "imagen": "/libros/08.jpg",
             "fecha_de_publicacion": "2022-03-18T12:25:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Finanzas Personales"
+            "categoria": 1
         },
         {
             "id": 9,
@@ -115,7 +115,7 @@
             "imagen": "/libros/09.jpg",
             "fecha_de_publicacion": "2021-01-26T18:10:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Desarrollo Personal"
+            "categoria": 2
         },
         {
             "id": 10,
@@ -128,7 +128,7 @@
             "imagen": "/libros/apparel.jpg",
             "fecha_de_publicacion": "2019-05-14T20:05:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Industria Textil"
+            "categoria": 5
         },
         {
             "id": 11,
@@ -141,7 +141,7 @@
             "imagen": "/libros/electronic.jpg",
             "fecha_de_publicacion": "2018-11-22T06:30:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Electrónica"
+            "categoria": 6
           },
           {
             "id": 12,
@@ -154,7 +154,7 @@
             "imagen": "/libros/mystery.jpg",
             "fecha_de_publicacion": "2017-11-07T23:50:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Thriller"
+            "categoria": 7
         },
         {
             "id": 13,
@@ -167,7 +167,7 @@
             "imagen": "/libros/robinhood.jpg",
             "fecha_de_publicacion": "1912-06-01T15:08:00Z",
             "fecha_de_ingreso": "2024-08-21T08:50:00Z",
-            "categoria": "Aventuras"
+            "categoria": 8
         }
     ]
 }

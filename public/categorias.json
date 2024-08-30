@@ -1,0 +1,134 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "nombre": "Finanzas Personales",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/finanzas_personales.jpg",
+        "subcategorias": [
+          {
+            "id": 1,
+            "nombre": "Padre Rico, Padre Pobre",
+            "fecha_de_creacion": "1997-04-01T12:30:00Z"
+          },
+          {
+            "id": 5,
+            "nombre": "La Psicología del Dinero",
+            "fecha_de_creacion": "2020-09-08T22:20:00Z"
+          },
+          {
+            "id": 8,
+            "nombre": "Mi Primer Millón",
+            "fecha_de_creacion": "2022-03-18T12:25:00Z"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Desarrollo Personal",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/desarrollo_personal.jpg",
+        "subcategorias": [
+          {
+            "id": 2,
+            "nombre": "¿Quién se ha llevado mi queso?",
+            "fecha_de_creacion": "1998-09-08T14:23:00Z"
+          },
+          {
+            "id": 3,
+            "nombre": "Manifiesto para los Héroes de Cada Día",
+            "fecha_de_creacion": "2020-11-10T20:00:00Z"
+          },
+          {
+            "id": 6,
+            "nombre": "El Monje que Vendió su Ferrari",
+            "fecha_de_creacion": "1997-04-21T19:40:00Z"
+          },
+          {
+            "id": 9,
+            "nombre": "Cambie su Mundo",
+            "fecha_de_creacion": "2021-01-26T18:10:00Z"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Biografía",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/biografia.jpg",
+        "subcategorias": [
+          {
+            "id": 4,
+            "nombre": "El Triunfo y la Tragedia",
+            "fecha_de_creacion": "2005-04-05T18:00:00Z"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Cultura y Sociedad",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/cultura_sociedad.jpg",
+        "subcategorias": [
+          {
+            "id": 7,
+            "nombre": "Generación Idiota",
+            "fecha_de_creacion": "2023-11-15T14:10:00Z"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nombre": "Industria Textil",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/industria_textil.jpg",
+        "subcategorias": [
+          {
+            "id": 10,
+            "nombre": "Apparel Quality",
+            "fecha_de_creacion": "2019-05-14T20:05:00Z"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nombre": "Electrónica",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/electronica.jpg",
+        "subcategorias": [
+          {
+            "id": 11,
+            "nombre": "Sistemas Electrónicos",
+            "fecha_de_creacion": "2018-11-22T06:30:00Z"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "nombre": "Thriller",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/thriller.jpg",
+        "subcategorias": [
+          {
+            "id": 12,
+            "nombre": "Loba Negra",
+            "fecha_de_creacion": "2017-11-07T23:50:00Z"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "nombre": "Aventuras",
+        "fecha_de_creacion": "2024-08-21T08:50:00Z",
+        "imagen": "/categorias/aventuras.jpg",
+        "subcategorias": [
+          {
+            "id": 13,
+            "nombre": "Las Aventuras de Robin Hood",
+            "fecha_de_creacion": "1912-06-01T15:08:00Z"
+          }
+        ]
+      }
+    ]
+  }
+  

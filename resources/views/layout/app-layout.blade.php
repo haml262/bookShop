@@ -81,7 +81,7 @@
                         <li><a id="fist_category" href="#"><i class="fa-solid fa-bars"></i> category</a>
                             <div class="categorias">
                                 <ul>
-                                    <li><a href="/category/electronic">Electronics<i class="fa-solid fa-angle-right"></i></a>
+                                    <li><a href="/category/finanzas_personales">Finanzas Personales<i class="fa-solid fa-angle-right"></i></a>
                                         <div class="sub__categorias">
                                             <ul>
                                                 <li><h4><b>CLOTHING</b></h4></li>
@@ -99,7 +99,7 @@
                                             <div class="img__select"><img src="/libros/electronic.jpg" alt=""></div>
                                         </div>
                                     </li>
-                                    <li><a href="/category/Apparel">Apparel<i class="fa-solid fa-angle-right"></i></a>
+                                    <li><a href="/category/desarrollo_personal">Desarrollo Personal<i class="fa-solid fa-angle-right"></i></a>
                                         <div class="sub__categorias">
                                             <ul>
                                                 <li><h4><b>CLOTHING</b></h4></li>
@@ -117,7 +117,7 @@
                                             <div class="img__select"><img src="/libros/apparel.jpg" alt=""></div>
                                         </div>
                                     </li>
-                                    <li><a href="/category/Auto & Bike">Auto & Bike</a></li>
+                                    <li><a href="/category/Biografía">Biografía<i class="fa-solid fa-angle-right"></i></a></li>
                                     <li><a href="/category/Fiction" class="fiction">Fiction<i class="fa-solid fa-angle-right"></i></a>
                                         <div class="sub__categorias">
                                             <ul>
@@ -136,7 +136,7 @@
                                             <div class="img__select"><img src="/libros/robinhood.jpg" alt=""></div>
                                         </div>
                                     </li>
-                                    <li><a href="/category/Mystery">Mystery<i class="fa-solid fa-angle-right"></i></a>
+                                    <li><a href="/category/Cultura y Sociedad">Cultura y Sociedad<i class="fa-solid fa-angle-right"></i></a>
                                         <div class="sub__categorias">
                                             <ul>
                                                 <li><h4><b>CLOTHING</b></h4></li>
@@ -154,13 +154,10 @@
                                             <div class="img__select"><img src="/libros/mystery.jpg" alt=""></div>
                                         </div>
                                     </li>
-                                    <li><a href="/category/Home & Garden">Home & Garden</a></li>
-                                    <li><a href="/category/Beauty & Health">Beauty & Health</a></li>
-                                    <li><a href="/category/Technology">Technology</a></li>
-                                    <li><a href="/category/Health & Fitness">Health & Fitness</a></li>
-                                    <li><a href="/category/History">History</a></li>
-                                    <li><a href="/category/Politics & Affairs">Politics & Affairs</a></li>
-                                    <li><a href="/category/Shapewear">Shapewear</a></li>
+                                    <li><a href="/category/Industria Textil">Industria Textil<i class="fa-solid fa-angle-right"></i></a></li>
+                                    <li><a href="/category/Electrónic">Electrónic<i class="fa-solid fa-angle-right"></i></a></li>
+                                    <li><a href="/category/Thriller">Thrilleri<i class="fa-solid fa-angle-right"></i></a></li>
+                                    <li><a href="/category/Aventuras">Aventuras<i class="fa-solid fa-angle-right"></i></a></li>
                                 </ul>
 
                             </div>
